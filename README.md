@@ -1,2 +1,2 @@
 cleared all content from local branch update-readme
-Adding new lines to README
+Adding new lines to README before rebase
